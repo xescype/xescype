@@ -1,16 +1,15 @@
-## Hi there 👋
+*Nulla dies sine linea*
+Çizgisiz gün olmasın.
 
-<!--
-**xescype/xescype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+düzce · elektrik-elektronik mühendisliği
 
-Here are some ideas to get you started:
+### şu sıralar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [safetynet](https://github.com/xescype/safetynet) · aile apartmanının kapısı için radar + çok açılı yüz tanıma. rust çekirdeği elle yazılıyor.
+- [hayat-os](https://github.com/xescype/hayat-os) · oda: tek kişilik hayat işletim sistemi. typescript monorepo, passkey, şifreli yedek.
+
+[esatsafayilmaz.com.tr](https://esatsafayilmaz.com.tr)
+
+---
+
+eee student in düzce, turkey. building slowly, by hand.
