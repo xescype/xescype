@@ -11,7 +11,7 @@ düzce · elektrik-elektronik mühendisliği
 - [hayat-os](https://github.com/xescype/hayat-os) · oda: tek kişilik hayat işletim sistemi. typescript monorepo, passkey, şifreli yedek.
 - [realfans](https://github.com/xescype/realfans) · laptoplar için ince, kompakt, ergonomik bir fan. fikir aşamasında.
 
-[esatsafayilmaz.com.tr](https://esatsafayilmaz.com.tr) - [esy.digital](https:/esy.digital)
+[esatsafayilmaz.com.tr](https://esatsafayilmaz.com.tr) - [esy.digital](https://esy.digital)
 
 
 ---
